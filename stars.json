@@ -1,5 +1,53 @@
 [
   {
+    "full_name": "leonardomso/33-js-concepts",
+    "stargazers_count": 56822,
+    "open_issues_count": 72,
+    "forks_count": 7984
+  },
+  {
+    "full_name": "dypsilon/frontend-dev-bookmarks",
+    "stargazers_count": 38749,
+    "open_issues_count": 117,
+    "forks_count": 5117
+  },
+  {
+    "full_name": "jwasham/coding-interview-university",
+    "stargazers_count": 261435,
+    "open_issues_count": 58,
+    "forks_count": 68548
+  },
+  {
+    "full_name": "codecrafters-io/build-your-own-x",
+    "stargazers_count": 208326,
+    "open_issues_count": 281,
+    "forks_count": 20356
+  },
+  {
+    "full_name": "github/gitignore",
+    "stargazers_count": 149767,
+    "open_issues_count": 428,
+    "forks_count": 84166
+  },
+  {
+    "full_name": "jlevy/the-art-of-command-line",
+    "stargazers_count": 137832,
+    "open_issues_count": 223,
+    "forks_count": 13685
+  },
+  {
+    "full_name": "TheAlgorithms/TypeScript",
+    "stargazers_count": 614,
+    "open_issues_count": 12,
+    "forks_count": 143
+  },
+  {
+    "full_name": "TheAlgorithms/JavaScript",
+    "stargazers_count": 27098,
+    "open_issues_count": 39,
+    "forks_count": 4710
+  },
+  {
     "full_name": "Funkycodes/printf",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -7,9 +55,9 @@
   },
   {
     "full_name": "ItIsMeCall911/Course-Piracy-Index",
-    "stargazers_count": 1605,
+    "stargazers_count": 1617,
     "open_issues_count": 8,
-    "forks_count": 174
+    "forks_count": 175
   },
   {
     "full_name": "Melocoder/Developers-fact-card",
