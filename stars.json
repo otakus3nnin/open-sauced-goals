@@ -1,51 +1,69 @@
 [
   {
+    "full_name": "DaBultz/coding-fonts",
+    "stargazers_count": 135,
+    "open_issues_count": 0,
+    "forks_count": 62
+  },
+  {
+    "full_name": "cancng/fonts",
+    "stargazers_count": 1226,
+    "open_issues_count": 1,
+    "forks_count": 347
+  },
+  {
+    "full_name": "sainnhe/icursive-nerd-font",
+    "stargazers_count": 366,
+    "open_issues_count": 1,
+    "forks_count": 30
+  },
+  {
     "full_name": "leonardomso/33-js-concepts",
-    "stargazers_count": 56910,
+    "stargazers_count": 57000,
     "open_issues_count": 75,
-    "forks_count": 8007
+    "forks_count": 8018
   },
   {
     "full_name": "dypsilon/frontend-dev-bookmarks",
-    "stargazers_count": 38817,
+    "stargazers_count": 38837,
     "open_issues_count": 116,
     "forks_count": 5116
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 261878,
+    "stargazers_count": 262038,
     "open_issues_count": 57,
-    "forks_count": 68676
+    "forks_count": 68704
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 209863,
-    "open_issues_count": 284,
-    "forks_count": 20475
+    "stargazers_count": 210499,
+    "open_issues_count": 283,
+    "forks_count": 20534
   },
   {
     "full_name": "github/gitignore",
-    "stargazers_count": 150073,
-    "open_issues_count": 430,
-    "forks_count": 84151
+    "stargazers_count": 150162,
+    "open_issues_count": 433,
+    "forks_count": 84138
   },
   {
     "full_name": "jlevy/the-art-of-command-line",
-    "stargazers_count": 138071,
+    "stargazers_count": 138170,
     "open_issues_count": 224,
-    "forks_count": 13695
+    "forks_count": 13701
   },
   {
     "full_name": "TheAlgorithms/TypeScript",
-    "stargazers_count": 629,
+    "stargazers_count": 635,
     "open_issues_count": 12,
-    "forks_count": 149
+    "forks_count": 150
   },
   {
     "full_name": "TheAlgorithms/JavaScript",
-    "stargazers_count": 27182,
+    "stargazers_count": 27203,
     "open_issues_count": 43,
-    "forks_count": 4729
+    "forks_count": 4736
   },
   {
     "full_name": "Funkycodes/printf",
@@ -55,9 +73,9 @@
   },
   {
     "full_name": "ItIsMeCall911/Course-Piracy-Index",
-    "stargazers_count": 1641,
+    "stargazers_count": 1648,
     "open_issues_count": 8,
-    "forks_count": 176
+    "forks_count": 175
   },
   {
     "full_name": "Melocoder/Developers-fact-card",
