@@ -1,31 +1,37 @@
 [
   {
+    "full_name": "JoBenEtuk/basement-laboratory",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "notpresident35/awesome-learn-gamedev",
-    "stargazers_count": 2208,
+    "stargazers_count": 2212,
     "open_issues_count": 2,
-    "forks_count": 77
+    "forks_count": 78
   },
   {
     "full_name": "sindresorhus/awesome-nodejs",
-    "stargazers_count": 53550,
+    "stargazers_count": 53618,
     "open_issues_count": 5,
-    "forks_count": 5852
+    "forks_count": 5855
   },
   {
     "full_name": "lettier/3d-game-shaders-for-beginners",
-    "stargazers_count": 16329,
+    "stargazers_count": 16342,
     "open_issues_count": 18,
     "forks_count": 1313
   },
   {
     "full_name": "raphamorim/awesome-canvas",
-    "stargazers_count": 1423,
+    "stargazers_count": 1426,
     "open_issues_count": 0,
     "forks_count": 143
   },
   {
     "full_name": "UstymUkhman/vite-plugin-glsl",
-    "stargazers_count": 246,
+    "stargazers_count": 247,
     "open_issues_count": 2,
     "forks_count": 20
   },
@@ -37,51 +43,51 @@
   },
   {
     "full_name": "leonardomso/33-js-concepts",
-    "stargazers_count": 59788,
+    "stargazers_count": 59808,
     "open_issues_count": 52,
-    "forks_count": 8552
+    "forks_count": 8555
   },
   {
     "full_name": "dypsilon/frontend-dev-bookmarks",
-    "stargazers_count": 39647,
+    "stargazers_count": 39675,
     "open_issues_count": 118,
     "forks_count": 5133
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 271355,
-    "open_issues_count": 56,
-    "forks_count": 70537
+    "stargazers_count": 272009,
+    "open_issues_count": 57,
+    "forks_count": 70686
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 226840,
-    "open_issues_count": 294,
-    "forks_count": 21836
+    "stargazers_count": 227096,
+    "open_issues_count": 295,
+    "forks_count": 21866
   },
   {
     "full_name": "github/gitignore",
-    "stargazers_count": 153143,
+    "stargazers_count": 153210,
     "open_issues_count": 455,
-    "forks_count": 83951
+    "forks_count": 83955
   },
   {
     "full_name": "jlevy/the-art-of-command-line",
-    "stargazers_count": 140813,
+    "stargazers_count": 140883,
     "open_issues_count": 222,
-    "forks_count": 13882
+    "forks_count": 13895
   },
   {
     "full_name": "TheAlgorithms/TypeScript",
-    "stargazers_count": 819,
+    "stargazers_count": 827,
     "open_issues_count": 22,
     "forks_count": 206
   },
   {
     "full_name": "TheAlgorithms/JavaScript",
-    "stargazers_count": 29709,
+    "stargazers_count": 29744,
     "open_issues_count": 83,
-    "forks_count": 5268
+    "forks_count": 5273
   },
   {
     "full_name": "Funkycodes/printf",
@@ -91,9 +97,9 @@
   },
   {
     "full_name": "ItIsMeCall911/Course-Piracy-Index",
-    "stargazers_count": 1990,
+    "stargazers_count": 1998,
     "open_issues_count": 9,
-    "forks_count": 222
+    "forks_count": 225
   },
   {
     "full_name": "Melocoder/Developers-fact-card",
