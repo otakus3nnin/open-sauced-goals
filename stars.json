@@ -19,9 +19,9 @@
   },
   {
     "full_name": "dzyim/ilya-sutskever-recommended-reading",
-    "stargazers_count": 1518,
+    "stargazers_count": 1528,
     "open_issues_count": 2,
-    "forks_count": 167
+    "forks_count": 168
   },
   {
     "full_name": "Mathics3/mathics-core",
@@ -37,75 +37,75 @@
   },
   {
     "full_name": "ossu/math",
-    "stargazers_count": 8760,
+    "stargazers_count": 8778,
     "open_issues_count": 11,
     "forks_count": 800
   },
   {
     "full_name": "enhancedformysql/The-Art-of-Problem-Solving-in-Software-Engineering_How-to-Make-MySQL-Better",
-    "stargazers_count": 1927,
+    "stargazers_count": 1928,
     "open_issues_count": 3,
     "forks_count": 155
   },
   {
     "full_name": "jaredLunde/masonic",
-    "stargazers_count": 1396,
+    "stargazers_count": 1397,
     "open_issues_count": 42,
     "forks_count": 61
   },
   {
     "full_name": "cat-backend-nodejs/nodejs-roadmap",
-    "stargazers_count": 843,
+    "stargazers_count": 849,
     "open_issues_count": 1,
-    "forks_count": 81
+    "forks_count": 82
   },
   {
     "full_name": "systemdesign42/system-design-academy",
-    "stargazers_count": 24514,
+    "stargazers_count": 24550,
     "open_issues_count": 0,
-    "forks_count": 3102
+    "forks_count": 3108
   },
   {
     "full_name": "FFmpeg/asm-lessons",
-    "stargazers_count": 11981,
+    "stargazers_count": 12001,
     "open_issues_count": 27,
-    "forks_count": 397
+    "forks_count": 400
   },
   {
     "full_name": "usememos/memos",
-    "stargazers_count": 59909,
-    "open_issues_count": 27,
-    "forks_count": 4387
+    "stargazers_count": 60121,
+    "open_issues_count": 28,
+    "forks_count": 4416
   },
   {
     "full_name": "onlook-dev/onlook",
-    "stargazers_count": 25810,
-    "open_issues_count": 363,
-    "forks_count": 1988
+    "stargazers_count": 25833,
+    "open_issues_count": 365,
+    "forks_count": 1986
   },
   {
     "full_name": "amilajack/reading",
-    "stargazers_count": 3577,
+    "stargazers_count": 3581,
     "open_issues_count": 7,
-    "forks_count": 768
+    "forks_count": 769
   },
   {
     "full_name": "nilbuild/developer-roadmap",
-    "stargazers_count": 355220,
-    "open_issues_count": 21,
-    "forks_count": 44093
+    "stargazers_count": 355459,
+    "open_issues_count": 10,
+    "forks_count": 44105
   },
   {
     "full_name": "Artoriuz/OSEE",
-    "stargazers_count": 671,
+    "stargazers_count": 675,
     "open_issues_count": 0,
     "forks_count": 57
   },
   {
     "full_name": "basementstudio/basement-laboratory",
-    "stargazers_count": 352,
+    "stargazers_count": 353,
     "open_issues_count": 8,
-    "forks_count": 23
+    "forks_count": 24
   },
   {
     "full_name": "JoBenEtuk/basement-laboratory",
@@ -115,27 +115,27 @@
   },
   {
     "full_name": "dawdle-deer/awesome-learn-gamedev",
-    "stargazers_count": 3415,
+    "stargazers_count": 3422,
     "open_issues_count": 4,
-    "forks_count": 121
+    "forks_count": 123
   },
   {
     "full_name": "sindresorhus/awesome-nodejs",
-    "stargazers_count": 65779,
+    "stargazers_count": 65815,
     "open_issues_count": 26,
-    "forks_count": 6224
+    "forks_count": 6230
   },
   {
     "full_name": "lettier/3d-game-shaders-for-beginners",
-    "stargazers_count": 19614,
+    "stargazers_count": 19625,
     "open_issues_count": 18,
-    "forks_count": 1469
+    "forks_count": 1471
   },
   {
     "full_name": "raphamorim/awesome-canvas",
     "stargazers_count": 1819,
-    "open_issues_count": 7,
-    "forks_count": 164
+    "open_issues_count": 8,
+    "forks_count": 165
   },
   {
     "full_name": "UstymUkhman/vite-plugin-glsl",
@@ -151,32 +151,32 @@
   },
   {
     "full_name": "leonardomso/33-js-concepts",
-    "stargazers_count": 66452,
+    "stargazers_count": 66463,
     "open_issues_count": 4,
-    "forks_count": 9189
+    "forks_count": 9186
   },
   {
     "full_name": "dypsilon/frontend-dev-bookmarks",
-    "stargazers_count": 46762,
+    "stargazers_count": 46791,
     "open_issues_count": 128,
-    "forks_count": 5146
+    "forks_count": 5148
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 347207,
-    "open_issues_count": 113,
-    "forks_count": 82951
+    "stargazers_count": 347410,
+    "open_issues_count": 112,
+    "forks_count": 82961
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 503071,
-    "open_issues_count": 483,
-    "forks_count": 47690
+    "stargazers_count": 504730,
+    "open_issues_count": 484,
+    "forks_count": 47872
   },
   {
     "full_name": "github/gitignore",
-    "stargazers_count": 174035,
-    "open_issues_count": 62,
-    "forks_count": 82502
+    "stargazers_count": 174090,
+    "open_issues_count": 63,
+    "forks_count": 82483
   }
 ]
